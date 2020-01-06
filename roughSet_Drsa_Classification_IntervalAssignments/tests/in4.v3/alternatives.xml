@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmcda:XMCDA xmlns:xsi="http://www.w3.org/2001/XMLSchema-Instance" xmlns:xmcda="http://www.decision-deck.org/2019/XMCDA-3.2.0">
+    <alternatives>
+        <alternative id="a1" name="a1">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a2" name="a2">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a3" name="a3">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a4" name="a4">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a5" name="a5">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a6" name="a6">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a7" name="a7">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a8" name="a8">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a9" name="a9">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a10" name="a10">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a11" name="a11">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a12" name="a12">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a13" name="a13">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a14" name="a14">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a15" name="a15">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a16" name="a16">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+        <alternative id="a17" name="a17">
+            <type>real</type>
+            <active>true</active>
+        </alternative>
+    </alternatives>
+</xmcda:XMCDA>
