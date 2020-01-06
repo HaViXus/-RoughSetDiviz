@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2019/XMCDA-3.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.decision-deck.org/2019/XMCDA-3.2.0 http://www.decision-deck.org/xmcda/_downloads/XMCDA-3.2.0.xsd">
+	<categoriesSets>
+		<categoriesSet id="CS_a19">
+			<element>
+				<categoryID>C1</categoryID>
+				<values>
+					<value>
+						<real>1.0</real>
+					</value>
+				</values>
+			</element>
+		</categoriesSet>
+		<categoriesSet id="CS_a18">
+			<element>
+				<categoryID>C3</categoryID>
+				<values>
+					<value>
+						<real>1.0</real>
+					</value>
+				</values>
+			</element>
+		</categoriesSet>
+	</categoriesSets>
+</xmcda:XMCDA>

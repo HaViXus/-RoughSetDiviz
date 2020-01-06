@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<xmcda:XMCDA xmlns:xmcda="http://www.decision-deck.org/2019/XMCDA-3.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.decision-deck.org/2019/XMCDA-3.2.0 http://www.decision-deck.org/xmcda/_downloads/XMCDA-3.2.0.xsd">
+	<alternativesAssignments>
+		<alternativeAssignment>
+			<alternativeID>a1</alternativeID>
+			<categoriesSetID>CS_a1</categoriesSetID>
+		</alternativeAssignment>
+		<alternativeAssignment>
+			<alternativeID>a2</alternativeID>
+			<categoriesSetID>CS_a2</categoriesSetID>
+		</alternativeAssignment>
+		<alternativeAssignment>
+			<alternativeID>a3</alternativeID>
+			<categoriesSetID>CS_a3</categoriesSetID>
+		</alternativeAssignment>
+		<alternativeAssignment>
+			<alternativeID>a4</alternativeID>
+			<categoriesSetID>CS_a4</categoriesSetID>
+		</alternativeAssignment>
+		<alternativeAssignment>
+			<alternativeID>a5</alternativeID>
+			<categoriesSetID>CS_a5</categoriesSetID>
+		</alternativeAssignment>
+		<alternativeAssignment>
+			<alternativeID>a6</alternativeID>
+			<categoriesSetID>CS_a6</categoriesSetID>
+		</alternativeAssignment>
+		<alternativeAssignment>
+			<alternativeID>a7</alternativeID>
+			<categoriesSetID>CS_a7</categoriesSetID>
+		</alternativeAssignment>
+		<alternativeAssignment>
+			<alternativeID>a8</alternativeID>
+			<categoriesSetID>CS_a8</categoriesSetID>
+		</alternativeAssignment>
+		<alternativeAssignment>
+			<alternativeID>a9</alternativeID>
+			<categoriesSetID>CS_a9</categoriesSetID>
+		</alternativeAssignment>
+		<alternativeAssignment>
+			<alternativeID>a0</alternativeID>
+			<categoriesSetID>CS_a0</categoriesSetID>
+		</alternativeAssignment>
+	</alternativesAssignments>
+</xmcda:XMCDA>
